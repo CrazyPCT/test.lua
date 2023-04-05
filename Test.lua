@@ -1,2 +1,2 @@
 --hi
-Print ("hi")
+Print("hi")
